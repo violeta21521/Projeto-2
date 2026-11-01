@@ -1,0 +1,31 @@
+body {
+	background-color: #f4f4f9;
+	font-family: Arial, sans-serif;
+	color: #333333;
+	padding: 20px;
+}
+
+h1, h2, h3 {
+	color: #d65b7a;
+	font-family: Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.destaque {
+	background-color: #ffe6eb;
+	color: #a82e4b;
+	padding: 10px;
+	margin: 15px 0;
+	font-weight: bold;
+}
+
+div {
+	background-color: #ffffff;
+	padding: 15px;
+	margin-bottom: 15px;
+	border-width: 15px
+	
+}
+/*Avaliação Metacognitiva
+1. Desafio Técnico: A regra CSS mais difícil foi aplicar a classe .destaque, ajustando as margens sem desconfigurar o restante texto da página.
+2. Correção de Sintaxe: O erro mais comum que detetei ao testar no browser foi ter-me esquecido de fechar algumas chavetas ({}) e de colocar o ponto e vírgula (;) no final de algumas propriedades no ficheiro CSS.
+3. Autoria: O atributo src serve para indicar o endereço URL da imagem que queremos carregar e mostrar na página web.*/
